@@ -1,3 +1,3 @@
 this is just a test.
 
-[take me back to readme](README.md)
+[take me back to readme](README)
